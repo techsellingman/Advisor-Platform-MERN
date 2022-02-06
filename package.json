@@ -1,0 +1,22 @@
+{
+  "name": "advisor-platform-mern",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "concurrently": "^7.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "concurrently \"cd backend & node index\" \"cd frontend & npm start\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreenEarth1019/Advisor-Platform-MERN.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GreenEarth1019/Advisor-Platform-MERN/issues"
+  },
+  "homepage": "https://github.com/GreenEarth1019/Advisor-Platform-MERN#readme"
+}
